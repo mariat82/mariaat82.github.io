@@ -81,8 +81,10 @@ body {
 }
 
 .image-slider {
-  width: 95vw;
-  height: 400px;
+/*   width: 95vw;
+  height: 400px; */
+  width: 100%;
+  height: auto;
   margin: auto;
   display: flex;
   align-items: center;
